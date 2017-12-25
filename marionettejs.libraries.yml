@@ -1,0 +1,11 @@
+marionettejs:
+  remote: 'https://marionettejs.com/'
+  version: '3.x'
+  license:
+    name: 'marionette-License'
+    url: 'https://raw.githubusercontent.com/marionettejs/backbone.marionette/master/license.txt'
+    gpl-compatible: true
+  js:
+    /libraries/backbone.marionette/underscore.js: {}
+    /libraries/backbone.marionette/backbone.js: {}
+    /libraries/backbone.marionette/backbone.marionette.min.js: {}
